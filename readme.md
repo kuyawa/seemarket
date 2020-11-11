@@ -20,5 +20,5 @@ SeeMarket was thought from the beginning to use a specifically tailored contract
 
 Another key difference is in PolyMarket you have to sign up and provide an email which in decentralized apps has no place, that drives away users that want to try the app without being bothered. In SeeMarket we ask for nothing, users can try the app right away with their own wallet, no questions asked, period. SeeMarket does not collect information about the users, does not serve as custodian of any money and does not provide accounts or addresses, all interaction is done directly on-chain by the user with their own wallet of choice.
 
-So in essence, both DApps share the same vision but differ in the smart contract implementation, Prediction markets is a great idea and it could be imlemented easily on Harmony Network in just a couple of weeks.
+So in essence, both DApps share the same vision but differ in the smart contract implementation, Prediction markets is a great idea and it could be implemented easily on Harmony Network in just a couple of weeks.
 
