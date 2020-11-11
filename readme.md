@@ -4,7 +4,7 @@
 
 [SeeMarket.one](https://seemarket.one)
 
-![SeeMarket](docs/seemarket.png)
+![SeeMarket](docs/seeshot.png)
 
 SeeMarket is a port of polymarket.com to showcase the simplicity, speed and low cost of developing apps on Harmony. Developers can use all tools available like Remix and Truffle to create, test and deploy smart contracts easily both on testnet and mainnet, gas use is the lowest in the market being Harmony the cheapest and fastest blockchain of all with less than 5 secs finality.
 
