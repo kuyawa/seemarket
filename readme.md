@@ -14,7 +14,7 @@ SeeMarket and PolyMarket share the same vision of providing a platform for predi
 
 ## Key differences
 
-PolyMarket uses Pools, Tokens and Trading because they took the commonly used pool contracts (Uniswap, Balancer) and adapted them to their core adding innecessary complexity and technical debt. Trading share tokens (buy, sell) before events end is allowed but senseless, adding innecessary liquidity to pools is another key difference we don't need.
+PolyMarket uses Pools, Tokens and Trading because they took the commonly used pool contracts (Uniswap, Balancer) and adapted them to their core, adding innecessary complexity and technical debt. Trading share tokens (buy, sell) before closing events is allowed but senseless, adding innecessary liquidity to pools is another key difference we don't use.
 
 SeeMarket was thought from the beginning to use a specifically tailored contract that would allow to register events with all its options as part of the contract, storing all votes inside the contract without the need for pools, liquidity, tokens or trading, just vote and count. That's a great advantage UI wise since the user isn't bothered with complex financial jargon. In SeeMarket, one vote has ONE value and users can submit as many votes for as many options as they wish, no need to trade, buy, sell or add liquidity.
 
